@@ -2,12 +2,15 @@
 "meu_perfil":{
   "nome":"Gabriel Ribas Patzer",
   "Idade": 16 
-},"endereco":{
+},
+"endereco":{
    "rua": "João Jacob Manfron Netto",
    "bairro": "Várzea",
    "Cep": 83535000 ,
    "UF": "PR"
-}, "escolaridade":{
+}, 
+
+"escolaridade":{
    "escola": "Colégio Estadual Otalipio Pereira de Andrade",
    "curso": "Ensino médio Técnico",
    "conclusão": "2026"
