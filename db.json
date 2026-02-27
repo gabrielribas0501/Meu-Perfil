@@ -1,13 +1,13 @@
 {
 "meu_perfil":{
   "nome":"Gabriel Ribas Patzer",
-  "Idade": 16 
+  "idade": 16 
 },
 "endereco":{
    "rua": "João Jacob Manfron Netto",
    "bairro": "Várzea",
-   "Cep": 83535000 ,
-   "UF": "PR"
+   "cep": 83535000 ,
+   "uf": "PR"
 }, 
 
 "escolaridade":{
